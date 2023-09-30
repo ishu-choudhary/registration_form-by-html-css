@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+   
+</head>
+<body>
+   <div class="container">
+    <form action="#">
+        <div class="title">login</div>
+        <div class="input-box">
+            <input type="text" placeholder="enter your email" required>
+            <div class="underline"></div>
+        </div>
+        <div class="input-box">
+            <input type="password" placeholder="enter your password" required>
+            <div class="underline"></div>
+        </div>
+        <div class="input-box">
+            <input type="submit" value="continue">
+        </div>
+    </form>
+    <div class="option">or connect with social media</div>
+   <div class="instagram"></div>
+    <a href="#"><i class="instagram"></i>login with instagram</a>
+   </div>
+   
+</body>
+</html>
